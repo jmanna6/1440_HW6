@@ -148,6 +148,8 @@ public:
         {
             m_KeyValues[i]->display();
         }
+        std::cout << "Number of pairs: " << m_numKeys << std::endl;
+        std::cout << "Size reserved: " << m_sizeReserved << std::endl;
     }
 
     void resize()

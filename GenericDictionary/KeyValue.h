@@ -35,7 +35,7 @@ public:
         return m_value;
     }
 
-    std::string display()
+    std::string display() const
     {
         std::cout << m_key << ", " << m_value << std::endl;
     }
