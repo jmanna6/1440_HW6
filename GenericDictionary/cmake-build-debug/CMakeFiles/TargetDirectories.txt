@@ -1,0 +1,4 @@
+C:/Users/Jake/Documents/GitHub/1440_HW6/GenericDictionary/cmake-build-debug/CMakeFiles/GenericDictionary.dir
+C:/Users/Jake/Documents/GitHub/1440_HW6/GenericDictionary/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Jake/Documents/GitHub/1440_HW6/GenericDictionary/cmake-build-debug/CMakeFiles/Testing.dir
+C:/Users/Jake/Documents/GitHub/1440_HW6/GenericDictionary/cmake-build-debug/CMakeFiles/edit_cache.dir

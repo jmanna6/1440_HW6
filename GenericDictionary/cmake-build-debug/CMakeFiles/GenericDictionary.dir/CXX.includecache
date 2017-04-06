@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jake/Documents/GitHub/1440_HW6/GenericDictionary/Dictionary.cpp
+Dictionary.h
+C:/Users/Jake/Documents/GitHub/1440_HW6/GenericDictionary/Dictionary.h
+
+C:/Users/Jake/Documents/GitHub/1440_HW6/GenericDictionary/Dictionary.h
+string
+-
+KeyValue.h
+C:/Users/Jake/Documents/GitHub/1440_HW6/GenericDictionary/KeyValue.h
+
+C:/Users/Jake/Documents/GitHub/1440_HW6/GenericDictionary/KeyValue.cpp
+KeyValue.h
+C:/Users/Jake/Documents/GitHub/1440_HW6/GenericDictionary/KeyValue.h
+
+C:/Users/Jake/Documents/GitHub/1440_HW6/GenericDictionary/KeyValue.h
+iostream
+-
+stdlib.h
+-
+stdio.h
+-
+string
+-
+
+C:/Users/Jake/Documents/GitHub/1440_HW6/GenericDictionary/main.cpp
+iostream
+-
+Dictionary.h
+C:/Users/Jake/Documents/GitHub/1440_HW6/GenericDictionary/Dictionary.h
+
