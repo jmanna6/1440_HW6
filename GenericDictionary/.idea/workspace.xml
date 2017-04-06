@@ -45,7 +45,7 @@
       <file leaf-file-name="KeyValue.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KeyValue.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
+            <state relative-caret-position="185">
               <caret line="24" column="42" lean-forward="false" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
               <folding />
             </state>
@@ -55,10 +55,12 @@
       <file leaf-file-name="Dictionary.h" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dictionary.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
+            <state relative-caret-position="66">
               <caret line="74" column="10" lean-forward="false" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="10" />
               <folding>
                 <element signature="e#292#633#0" expanded="false" />
+                <element signature="e#639#835#0" expanded="false" />
+                <element signature="e#841#1127#0" expanded="false" />
                 <element signature="e#841#1127#0" expanded="false" />
                 <element signature="e#1133#1394#0" expanded="false" />
                 <element signature="e#1400#1467#0" expanded="false" />
@@ -350,12 +352,12 @@
       <option name="presentableId" value="Default" />
       <updated>1491252844179</updated>
       <workItem from="1491252854420" duration="6657000" />
-      <workItem from="1491425926271" duration="10456000" />
+      <workItem from="1491425926271" duration="11471000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17113000" />
+    <option name="totallyTimeSpent" value="18128000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -500,6 +502,8 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#292#633#0" expanded="false" />
+            <element signature="e#639#835#0" expanded="false" />
+            <element signature="e#841#1127#0" expanded="false" />
             <element signature="e#841#1127#0" expanded="false" />
             <element signature="e#1133#1394#0" expanded="false" />
             <element signature="e#1400#1467#0" expanded="false" />
@@ -534,14 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="1152" column="0" lean-forward="false" selection-start-line="1152" selection-start-column="0" selection-end-line="1152" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionary.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -603,14 +599,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/KeyValue.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="24" column="42" lean-forward="false" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -621,12 +609,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Dictionary.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KeyValue.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="24" column="42" lean-forward="false" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Dictionary.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
+        <state relative-caret-position="66">
           <caret line="74" column="10" lean-forward="false" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="10" />
           <folding>
             <element signature="e#292#633#0" expanded="false" />
+            <element signature="e#639#835#0" expanded="false" />
+            <element signature="e#841#1127#0" expanded="false" />
             <element signature="e#841#1127#0" expanded="false" />
             <element signature="e#1133#1394#0" expanded="false" />
             <element signature="e#1400#1467#0" expanded="false" />
